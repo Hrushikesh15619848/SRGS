@@ -1,0 +1,8 @@
+PORT=5000
+DB_HOST=127.0.0.1
+DB_USER=root
+DB_PASSWORD=
+DB_NAME=system_settings_db
+DB_PORT=3306
+JWT_SECRET=secret-jwt-token-key-change-in-production
+LICENSE_SECRET=license-validation-secret-key-12345
