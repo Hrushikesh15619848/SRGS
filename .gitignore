@@ -1,4 +1,7 @@
 node_modules/
 .env
-*.zip
+hostinger_deployment.zip
 .DS_Store
+dist/
+build/
+.evi
